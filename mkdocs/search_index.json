@@ -117,8 +117,18 @@
         }, 
         {
             "location": "/layers/", 
-            "text": "", 
+            "text": "l-cn\n\n\n\u8fd9\u5c31\u662fl-cn", 
             "title": "\u5c42"
+        }, 
+        {
+            "location": "/layers/#l-cn", 
+            "text": "", 
+            "title": "l-cn"
+        }, 
+        {
+            "location": "/layers/#l-cn_1", 
+            "text": "", 
+            "title": "\u8fd9\u5c31\u662fl-cn"
         }, 
         {
             "location": "/customer/", 
@@ -132,13 +142,33 @@
         }, 
         {
             "location": "/layers/", 
-            "text": "", 
+            "text": "l-cn\n\n\n\u8fd9\u5c31\u662fl-cn", 
             "title": "\u5c42layers"
         }, 
         {
-            "location": "/updates/", 
+            "location": "/layers/#l-cn", 
             "text": "", 
+            "title": "l-cn"
+        }, 
+        {
+            "location": "/layers/#l-cn_1", 
+            "text": "", 
+            "title": "\u8fd9\u5c31\u662fl-cn"
+        }, 
+        {
+            "location": "/updates/", 
+            "text": "l-cn\n\n\n\u8fd9\u5c31\u662fl-cn", 
             "title": "\u66f4\u65b0update"
+        }, 
+        {
+            "location": "/updates/#l-cn", 
+            "text": "", 
+            "title": "l-cn"
+        }, 
+        {
+            "location": "/updates/#l-cn_1", 
+            "text": "", 
+            "title": "\u8fd9\u5c31\u662fl-cn"
         }, 
         {
             "location": "/nonlinearities/", 
@@ -147,28 +177,78 @@
         }, 
         {
             "location": "/regularization/", 
-            "text": "", 
+            "text": "l-cn\n\n\n\u8fd9\u5c31\u662fl-cn", 
             "title": "\u6b63\u5219regularizaiton"
         }, 
         {
-            "location": "/random/", 
+            "location": "/regularization/#l-cn", 
             "text": "", 
+            "title": "l-cn"
+        }, 
+        {
+            "location": "/regularization/#l-cn_1", 
+            "text": "", 
+            "title": "\u8fd9\u5c31\u662fl-cn"
+        }, 
+        {
+            "location": "/random/", 
+            "text": "l-cn\n\n\n\u8fd9\u5c31\u662fl-cn", 
             "title": "\u968f\u673a\u51fd\u6570random"
         }, 
         {
-            "location": "/init/", 
+            "location": "/random/#l-cn", 
             "text": "", 
+            "title": "l-cn"
+        }, 
+        {
+            "location": "/random/#l-cn_1", 
+            "text": "", 
+            "title": "\u8fd9\u5c31\u662fl-cn"
+        }, 
+        {
+            "location": "/init/", 
+            "text": "l-cn\n\n\n\u8fd9\u5c31\u662fl-cn", 
             "title": "\u521d\u59cb\u5316init"
         }, 
         {
-            "location": "/utils/", 
+            "location": "/init/#l-cn", 
             "text": "", 
+            "title": "l-cn"
+        }, 
+        {
+            "location": "/init/#l-cn_1", 
+            "text": "", 
+            "title": "\u8fd9\u5c31\u662fl-cn"
+        }, 
+        {
+            "location": "/utils/", 
+            "text": "l-cn\n\n\n\u8fd9\u5c31\u662fl-cn", 
             "title": "\u5176\u4ed6utils"
         }, 
         {
-            "location": "/other/", 
+            "location": "/utils/#l-cn", 
             "text": "", 
+            "title": "l-cn"
+        }, 
+        {
+            "location": "/utils/#l-cn_1", 
+            "text": "", 
+            "title": "\u8fd9\u5c31\u662fl-cn"
+        }, 
+        {
+            "location": "/other/", 
+            "text": "l-cn\n\n\n\u8fd9\u5c31\u662fl-cn", 
             "title": "\u8d44\u6599"
+        }, 
+        {
+            "location": "/other/#l-cn", 
+            "text": "", 
+            "title": "l-cn"
+        }, 
+        {
+            "location": "/other/#l-cn_1", 
+            "text": "", 
+            "title": "\u8fd9\u5c31\u662fl-cn"
         }
     ]
 }
