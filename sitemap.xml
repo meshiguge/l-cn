@@ -3,7 +3,101 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>/homepage/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/install/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/tutorial/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/layers/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/customer/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/development/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/layers/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/updates/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/nonlinearities/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/regularization/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/random/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/init/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/utils/</loc>
+     <lastmod>2017-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/other/</loc>
      <lastmod>2017-02-02</lastmod>
      <changefreq>daily</changefreq>
     </url>

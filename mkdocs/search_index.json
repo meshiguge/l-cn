@@ -1,19 +1,174 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Keras:\u57fa\u4e8eTheano\u548cTensorFlow\u7684\u6df1\u5ea6\u5b66\u4e60\u5e93\n\n\n\u8fd9\u5c31\u662fKeras", 
+            "location": "/homepage/", 
+            "text": "\u6b22\u8fce\u6765\u5230Lasagne\u7684\u4e16\u754c\uff01\n\n\nLasagne \u662f\u4e00\u4e2a\u57fa\u4e8eTheano\u7684\u8f7b\u91cf\u795e\u7ecf\u7f51\u7edc\u5e93\uff0c\u53ef\u4ee5\u5efa\u7acb\u5e76\u8bad\u7ec3\u5404\u79cd\u795e\u7ecf\u7f51\u7edc\u6a21\u578b \u3002\n\n\nLasagne \u4ecd\u5728\u5b8c\u5584\u4e2d\uff0c\u6b22\u8fce\u8d21\u732e\u3002 \u8fd9\u4efd\u6587\u6863\u5e76\u4e0d\u80fd\u6db5\u76d6\u6240\u6709\u65b9\u9762\u3002\u9879\u76ee\u4e3b\u9875\u662f \u00a0\nGitHub\n.\n\n\n\u7528\u6237\u6307\u5bfc\n\n\n\u8fd9\u4efd\u6307\u5bfc\u5c06\u4f1a\u89e3\u91ca\u5982\u4f55\u5b89\u88c5Lasagne\uff0c\u5982\u4f55\u5efa\u7acb\u548c\u8bad\u7ec3\u795e\u7ecf\u7f51\u7edc\uff0c\u4ee5\u53ca\u5982\u4f55\u4f5c\u4e3a\u4e00\u4e2a\u5f00\u53d1\u8005\u8d21\u732e\u4ee3\u7801\u3002\n\n\n\n\n\u5b89\u88c5\n \n\n\nStable Lasagne release\n \n\n\nGPU\n \n\n\n\n\n\n\n\u8bf4\u660e\n \n\n\n\u5f00\u59cb\u4e4b\u524d\n \n\n\nPrerequisites\n \n\n\nPrerequisites\n \n\n\n\n\n\n\n\u5c42\n \n\n\n\u81ea\u5df1\u7684\u5c42\n \n\n\n\u5f00\u53d1\n \n\n\n\n\nAPI \u53c2\u8003\n\n\n\u4ee5\u4e0b\u6587\u6863\u5e2e\u52a9\u4f60\u5feb\u901f\u627e\u5230\u9700\u8981\u7684\u51fd\u6570\uff0c\u7c7b\u6216\u8005\u65b9\u6cd5\u3002\n\n\n\n\n\u5c42layers\n \n\n\n\u66f4\u65b0updates\n \n\n\n\u521d\u59cb\u5316init\n \n\n\n\u975e\u7ebf\u6027\u53d8\u6362\u51fd\u6570nonlinearities\n \n\n\n\u76ee\u6807\u51fd\u6570layers\n \n\n\n\u6b63\u5219\u5316regularization\n \n\n\n\u968f\u673a\u51fd\u6570random\n \n\n\n\u5176\u4ed6utils\n \n\n\n\n\n\u5b57\u6bcd\u7d22\u5f15\u548c\u8868\u683c\n\n\n\n\n\u672c\u6587\u6863\u662fLasagne\u6587\u6863\u7684\u4e2d\u6587\u7248\uff0c", 
             "title": "\u4e3b\u9875"
         }, 
         {
-            "location": "/#kerastheanotensorflow", 
-            "text": "", 
-            "title": "Keras:\u57fa\u4e8eTheano\u548cTensorFlow\u7684\u6df1\u5ea6\u5b66\u4e60\u5e93"
+            "location": "/homepage/#lasagne", 
+            "text": "Lasagne \u662f\u4e00\u4e2a\u57fa\u4e8eTheano\u7684\u8f7b\u91cf\u795e\u7ecf\u7f51\u7edc\u5e93\uff0c\u53ef\u4ee5\u5efa\u7acb\u5e76\u8bad\u7ec3\u5404\u79cd\u795e\u7ecf\u7f51\u7edc\u6a21\u578b \u3002  Lasagne \u4ecd\u5728\u5b8c\u5584\u4e2d\uff0c\u6b22\u8fce\u8d21\u732e\u3002 \u8fd9\u4efd\u6587\u6863\u5e76\u4e0d\u80fd\u6db5\u76d6\u6240\u6709\u65b9\u9762\u3002\u9879\u76ee\u4e3b\u9875\u662f \u00a0 GitHub .", 
+            "title": "\u6b22\u8fce\u6765\u5230Lasagne\u7684\u4e16\u754c\uff01"
         }, 
         {
-            "location": "/#keras", 
+            "location": "/homepage/#_1", 
+            "text": "\u8fd9\u4efd\u6307\u5bfc\u5c06\u4f1a\u89e3\u91ca\u5982\u4f55\u5b89\u88c5Lasagne\uff0c\u5982\u4f55\u5efa\u7acb\u548c\u8bad\u7ec3\u795e\u7ecf\u7f51\u7edc\uff0c\u4ee5\u53ca\u5982\u4f55\u4f5c\u4e3a\u4e00\u4e2a\u5f00\u53d1\u8005\u8d21\u732e\u4ee3\u7801\u3002   \u5b89\u88c5    Stable Lasagne release    GPU      \u8bf4\u660e    \u5f00\u59cb\u4e4b\u524d    Prerequisites    Prerequisites      \u5c42    \u81ea\u5df1\u7684\u5c42    \u5f00\u53d1", 
+            "title": "\u7528\u6237\u6307\u5bfc"
+        }, 
+        {
+            "location": "/homepage/#api", 
+            "text": "\u4ee5\u4e0b\u6587\u6863\u5e2e\u52a9\u4f60\u5feb\u901f\u627e\u5230\u9700\u8981\u7684\u51fd\u6570\uff0c\u7c7b\u6216\u8005\u65b9\u6cd5\u3002   \u5c42layers    \u66f4\u65b0updates    \u521d\u59cb\u5316init    \u975e\u7ebf\u6027\u53d8\u6362\u51fd\u6570nonlinearities    \u76ee\u6807\u51fd\u6570layers    \u6b63\u5219\u5316regularization    \u968f\u673a\u51fd\u6570random    \u5176\u4ed6utils", 
+            "title": "API \u53c2\u8003"
+        }, 
+        {
+            "location": "/homepage/#_2", 
+            "text": "\u672c\u6587\u6863\u662fLasagne\u6587\u6863\u7684\u4e2d\u6587\u7248\uff0c", 
+            "title": "\u5b57\u6bcd\u7d22\u5f15\u548c\u8868\u683c"
+        }, 
+        {
+            "location": "/install/", 
+            "text": "install Welcome to MkDocs\n\n\nPrerequisites\n\n\nStable Lasagne release\n\n\nGP\u652f\u6301\n\n\nThanks to Theano, Lasagne transparently supports training your networks on a GPU, which may be 10 to 50 times faster than training them on a CPU. Currently, this requires an NVIDIA GPU with CUDA support, and some additional software for Theano to use it.\n\u611f\u8c22Theano\uff0cLasagne \u53ef\u4ee5\u900f\u660e\u5730\u652f\u6301GPU\u8fd0\u884c\uff0c\u8bad\u7ec3\u901f\u5ea6\u662fCPU\u768410-50\u500d\u3002 \u73b0\u5728\uff0c\u6211\u4eec\u9700\u8981\u4e00\u5757\u652f\u6301CUDA\u7684NVIDA GPU\uff0c\u548c\u4e00\u4e9b\u989d\u5916\u7684\u8f6f\u4ef6\u3002\n\n\nCUDA\n\n\nInstall the latest CUDA Toolkit and possibly the corresponding driver available from NVIDIA: https://developer.nvidia.com/cuda-downloads\n\n\n\u8bf7\u5b89\u88c5\u6700\u65b0\u7684 CUDA \u7ec4\u4ef6\u548c\u53ef\u80fd\u9700\u8981\u7684\u76f8\u5173\u9a71\u52a8\uff0c\u53c2\u8003NVIDIA: https://developer.nvidia.com/cuda-downloads \n\n\nTheano\n\n\n\u5982\u679cCUDA \u8bbe\u7f6e\u6b63\u5e38\u7684\u8bdd\uff0c\u5c06\u4f1a\u6253\u5370\u5173\u4e8eGPU\u7684\u4fe1\u606f\uff08\u5982\u679c\u4f60\u6709\u591a\u4e2aGPU\u7684\u8bdd\uff0c\u5c06\u4f1a\u662f\u7b2c\u4e00\u4e2aCUDA-capable\u7684GPU\uff09\n\n\nTHEANO_FLAGS=device=gpu python -c \"import theano; print(theano.sandbox.cuda.device_properties(0))\"\n\n\n\n\u5982\u679c\u628aGPU\u8bbe\u4e3aTheano\u7684\u9ed8\u8ba4\u9009\u9879\u7684\u8bdd\uff0c\u5728\u4f60\u7684\u4e3b\u76ee\u5f55\u4e2d\u5efa\u7acb\u4e00\u4e2a.theanorc\u6587\u4ef6\uff0c\u5e76\u586b\u5165\u4ee5\u4e0b\u5185\u5bb9:\n\n\n[global]\nfloatX = float32\ndevice = gpu\n\n\n\nIf you run into problems, please check Theano\u2019s instructions for Using the GPU.\n\n\n\u5982\u679c\u4f60\u7684\u8fd0\u884c\u51fa\u73b0\u95ee\u9898\uff0c\u8bf7\u53c2\u8003Theano \u7684\nUsing the GPU\n\u3002\n\n\nDocker\n\n\n\u5982\u679c\u4e0d\u60f3\u6309\u7167\u4ee5\u4e0a\u63cf\u8ff0\u7684\u65b9\u6cd5\u624b\u52a8\u5b89\u88c5Theano \u548c Lasagne\uff0c\u4f60\u8fd8\u53ef\u4ee5\u7528pre-made Docker image: Lasagne Docker (CPU) or Lasagne Docker (CUDA)\u3002\u4ed6\u4eec\u53ef\u4ee5\u6bcf\u5468\u66f4\u65b0\u6700\u65b0\u7684Theano \u548c Lasagne\u3002\u8fd0\u884c\u65b9\u6cd5\u5982\u4e0b\uff08\u4f8b\u5b50\uff09:  \n\n\nsudo docker run -it kaixhin/lasagne\nsudo nvidia-docker run -it kaixhin/cuda-lasagne:7.0\n\n\n\n\u60f3\u4e86\u89e3\u66f4\u591aDocker\u4fe1\u606f\uff0c\u8bf7\u53c2\u8003\u5b98\u65b9\u6587\u6863\u3002CUDA\u652f\u6301\u9700\u8981NVIDIA Docker\u3002\u60f3\u4e86\u89e3\u66f4\u591a\u5173\u4e8e\u4f7f\u7528Lasagne Docker images \u7684\u7ec6\u8282\uff0c\u8bf7\u53c2\u8003\u6e90\u4ee3\u7801\u3002", 
+            "title": "\u5b89\u88c5"
+        }, 
+        {
+            "location": "/install/#install-welcome-to-mkdocs", 
             "text": "", 
-            "title": "\u8fd9\u5c31\u662fKeras"
+            "title": "install Welcome to MkDocs"
+        }, 
+        {
+            "location": "/install/#prerequisites", 
+            "text": "", 
+            "title": "Prerequisites"
+        }, 
+        {
+            "location": "/install/#stable-lasagne-release", 
+            "text": "", 
+            "title": "Stable Lasagne release"
+        }, 
+        {
+            "location": "/install/#gp", 
+            "text": "Thanks to Theano, Lasagne transparently supports training your networks on a GPU, which may be 10 to 50 times faster than training them on a CPU. Currently, this requires an NVIDIA GPU with CUDA support, and some additional software for Theano to use it.\n\u611f\u8c22Theano\uff0cLasagne \u53ef\u4ee5\u900f\u660e\u5730\u652f\u6301GPU\u8fd0\u884c\uff0c\u8bad\u7ec3\u901f\u5ea6\u662fCPU\u768410-50\u500d\u3002 \u73b0\u5728\uff0c\u6211\u4eec\u9700\u8981\u4e00\u5757\u652f\u6301CUDA\u7684NVIDA GPU\uff0c\u548c\u4e00\u4e9b\u989d\u5916\u7684\u8f6f\u4ef6\u3002", 
+            "title": "GP\u652f\u6301"
+        }, 
+        {
+            "location": "/install/#cuda", 
+            "text": "Install the latest CUDA Toolkit and possibly the corresponding driver available from NVIDIA: https://developer.nvidia.com/cuda-downloads  \u8bf7\u5b89\u88c5\u6700\u65b0\u7684 CUDA \u7ec4\u4ef6\u548c\u53ef\u80fd\u9700\u8981\u7684\u76f8\u5173\u9a71\u52a8\uff0c\u53c2\u8003NVIDIA: https://developer.nvidia.com/cuda-downloads", 
+            "title": "CUDA"
+        }, 
+        {
+            "location": "/install/#theano", 
+            "text": "\u5982\u679cCUDA \u8bbe\u7f6e\u6b63\u5e38\u7684\u8bdd\uff0c\u5c06\u4f1a\u6253\u5370\u5173\u4e8eGPU\u7684\u4fe1\u606f\uff08\u5982\u679c\u4f60\u6709\u591a\u4e2aGPU\u7684\u8bdd\uff0c\u5c06\u4f1a\u662f\u7b2c\u4e00\u4e2aCUDA-capable\u7684GPU\uff09  THEANO_FLAGS=device=gpu python -c \"import theano; print(theano.sandbox.cuda.device_properties(0))\"  \u5982\u679c\u628aGPU\u8bbe\u4e3aTheano\u7684\u9ed8\u8ba4\u9009\u9879\u7684\u8bdd\uff0c\u5728\u4f60\u7684\u4e3b\u76ee\u5f55\u4e2d\u5efa\u7acb\u4e00\u4e2a.theanorc\u6587\u4ef6\uff0c\u5e76\u586b\u5165\u4ee5\u4e0b\u5185\u5bb9:  [global]\nfloatX = float32\ndevice = gpu  If you run into problems, please check Theano\u2019s instructions for Using the GPU.  \u5982\u679c\u4f60\u7684\u8fd0\u884c\u51fa\u73b0\u95ee\u9898\uff0c\u8bf7\u53c2\u8003Theano \u7684 Using the GPU \u3002", 
+            "title": "Theano"
+        }, 
+        {
+            "location": "/install/#docker", 
+            "text": "\u5982\u679c\u4e0d\u60f3\u6309\u7167\u4ee5\u4e0a\u63cf\u8ff0\u7684\u65b9\u6cd5\u624b\u52a8\u5b89\u88c5Theano \u548c Lasagne\uff0c\u4f60\u8fd8\u53ef\u4ee5\u7528pre-made Docker image: Lasagne Docker (CPU) or Lasagne Docker (CUDA)\u3002\u4ed6\u4eec\u53ef\u4ee5\u6bcf\u5468\u66f4\u65b0\u6700\u65b0\u7684Theano \u548c Lasagne\u3002\u8fd0\u884c\u65b9\u6cd5\u5982\u4e0b\uff08\u4f8b\u5b50\uff09:    sudo docker run -it kaixhin/lasagne\nsudo nvidia-docker run -it kaixhin/cuda-lasagne:7.0  \u60f3\u4e86\u89e3\u66f4\u591aDocker\u4fe1\u606f\uff0c\u8bf7\u53c2\u8003\u5b98\u65b9\u6587\u6863\u3002CUDA\u652f\u6301\u9700\u8981NVIDIA Docker\u3002\u60f3\u4e86\u89e3\u66f4\u591a\u5173\u4e8e\u4f7f\u7528Lasagne Docker images \u7684\u7ec6\u8282\uff0c\u8bf7\u53c2\u8003\u6e90\u4ee3\u7801\u3002", 
+            "title": "Docker"
+        }, 
+        {
+            "location": "/tutorial/", 
+            "text": "\u8bf4\u660e\n\n\n\u8fd9\u7bc7\u8bf4\u660e\u5c06\u4f1a\u624b\u628a\u624b\u6559\u4f1a\u4f60\u5982\u4f55\u7528MNIST\u6570\u636e\u96c6\u5efa\u7acb\u4e00\u4e2a\u624b\u5199\u6570\u5b57\u8bc6\u522b\u7cfb\u7edf\uff0c\u4e5f\u88ab\u79f0\u4e3a\u795e\u7ecf\u7f51\u7edc\u754c\u7684\"Hello World\"\u3002\u66f4\u591a\u4f8b\u5b50\u8bf7\u53c2\u8003\nLasagne Recipes\n\n\n\u5f00\u59cb\u4e4b\u524d\n\n\nLasagne\u662f\u57fa\u4e8eTheano. \u6240\u4ee5\u672c\u7bc7\u8bf4\u660e\u5047\u8bbe\u4f60\u5df2\u7ecf\u719f\u6089\u4e86\u795e\u7ecf\u7f51\u8def\u548cTheano\u3002 \u5982\u679c\u4f60\u5bf9\u4efb\u4f55\u4e00\u4e2a\u6982\u5ff5\u4e0d\u719f\u6089\uff0c\u8bf7\u9996\u5148\u5b66\u4e60 \n Deeplearning Tutorial \n\n\n\u5982\u679c\u4f60\u60f3\u66f4\u6df1\u5165\u7684\u5b66\u4e60\u4eba\u5de5\u795e\u7ecf\u7f51\u7edc\uff0c\u6211\u4eec\u63a8\u8350\u65af\u5766\u798f Andrej Karpathy \u7b49\u4eba\u4e3b\u8bb2\u7684cs231, \nConvolutional Neural Networks for Visual Recognition\n\uff0c\u4ee5\u53caMichael Nielsen \u7684\u514d\u8d39\u5728\u7ebf\u4e66\u7c4d\nNeural Networks and Deep Learning\n\uff0c\u6216\u8005\u5176\u4ed6\u6559\u79d1\u4e66\uff0c\u5982Tom Mitchel\u7684\u201cMachine Learning\u201d\u3002\n\n\n\u8fd0\u884cMNIST\u4f8b\u5b50\n\n\n\u5728\u672c\u8bf4\u660e\u7684\u7b2c\u4e00\u4e2a\u90e8\u5206\uff0c\u6211\u4eec\u5c06\u53ea\u8fd0\u884cLasagne\u5b98\u65b9\u53d1\u5e03\u7684MNIST\u4f8b\u5b50\u7a0b\u5e8f\u3002\n\n\n\u6211\u4eec\u5047\u5b9a\u4f60\u5df2\u7ecf\u6210\u529f\u5b89\u88c5Lasagne\u3002\u5982\u679c\nWe assume that you have already run through the Installation. If you haven\u2019t done so already, get a copy of the source tree of Lasagne, and navigate to the folder in a terminal window. Enter the examples folder and run the mnist.py example script:\n\n\nUnderstand the MNIST example\n\n\nPreface\n\n\nLoading data\n\n\nBuilding the model\n\n\nMulti-Layer Perceptron (MLP)\n\n\nCustom MLP", 
+            "title": "\u8bf4\u660e"
+        }, 
+        {
+            "location": "/tutorial/#_1", 
+            "text": "\u8fd9\u7bc7\u8bf4\u660e\u5c06\u4f1a\u624b\u628a\u624b\u6559\u4f1a\u4f60\u5982\u4f55\u7528MNIST\u6570\u636e\u96c6\u5efa\u7acb\u4e00\u4e2a\u624b\u5199\u6570\u5b57\u8bc6\u522b\u7cfb\u7edf\uff0c\u4e5f\u88ab\u79f0\u4e3a\u795e\u7ecf\u7f51\u7edc\u754c\u7684\"Hello World\"\u3002\u66f4\u591a\u4f8b\u5b50\u8bf7\u53c2\u8003 Lasagne Recipes", 
+            "title": "\u8bf4\u660e"
+        }, 
+        {
+            "location": "/tutorial/#_2", 
+            "text": "Lasagne\u662f\u57fa\u4e8eTheano. \u6240\u4ee5\u672c\u7bc7\u8bf4\u660e\u5047\u8bbe\u4f60\u5df2\u7ecf\u719f\u6089\u4e86\u795e\u7ecf\u7f51\u8def\u548cTheano\u3002 \u5982\u679c\u4f60\u5bf9\u4efb\u4f55\u4e00\u4e2a\u6982\u5ff5\u4e0d\u719f\u6089\uff0c\u8bf7\u9996\u5148\u5b66\u4e60   Deeplearning Tutorial   \u5982\u679c\u4f60\u60f3\u66f4\u6df1\u5165\u7684\u5b66\u4e60\u4eba\u5de5\u795e\u7ecf\u7f51\u7edc\uff0c\u6211\u4eec\u63a8\u8350\u65af\u5766\u798f Andrej Karpathy \u7b49\u4eba\u4e3b\u8bb2\u7684cs231,  Convolutional Neural Networks for Visual Recognition \uff0c\u4ee5\u53caMichael Nielsen \u7684\u514d\u8d39\u5728\u7ebf\u4e66\u7c4d Neural Networks and Deep Learning \uff0c\u6216\u8005\u5176\u4ed6\u6559\u79d1\u4e66\uff0c\u5982Tom Mitchel\u7684\u201cMachine Learning\u201d\u3002", 
+            "title": "\u5f00\u59cb\u4e4b\u524d"
+        }, 
+        {
+            "location": "/tutorial/#mnist", 
+            "text": "\u5728\u672c\u8bf4\u660e\u7684\u7b2c\u4e00\u4e2a\u90e8\u5206\uff0c\u6211\u4eec\u5c06\u53ea\u8fd0\u884cLasagne\u5b98\u65b9\u53d1\u5e03\u7684MNIST\u4f8b\u5b50\u7a0b\u5e8f\u3002  \u6211\u4eec\u5047\u5b9a\u4f60\u5df2\u7ecf\u6210\u529f\u5b89\u88c5Lasagne\u3002\u5982\u679c\nWe assume that you have already run through the Installation. If you haven\u2019t done so already, get a copy of the source tree of Lasagne, and navigate to the folder in a terminal window. Enter the examples folder and run the mnist.py example script:", 
+            "title": "\u8fd0\u884cMNIST\u4f8b\u5b50"
+        }, 
+        {
+            "location": "/tutorial/#understand-the-mnist-example", 
+            "text": "", 
+            "title": "Understand the MNIST example"
+        }, 
+        {
+            "location": "/tutorial/#preface", 
+            "text": "", 
+            "title": "Preface"
+        }, 
+        {
+            "location": "/tutorial/#loading-data", 
+            "text": "", 
+            "title": "Loading data"
+        }, 
+        {
+            "location": "/tutorial/#building-the-model", 
+            "text": "", 
+            "title": "Building the model"
+        }, 
+        {
+            "location": "/tutorial/#multi-layer-perceptron-mlp", 
+            "text": "", 
+            "title": "Multi-Layer Perceptron (MLP)"
+        }, 
+        {
+            "location": "/tutorial/#custom-mlp", 
+            "text": "", 
+            "title": "Custom MLP"
+        }, 
+        {
+            "location": "/layers/", 
+            "text": "", 
+            "title": "\u5c42"
+        }, 
+        {
+            "location": "/customer/", 
+            "text": "", 
+            "title": "\u81ea\u5df1\u7684\u5c42"
+        }, 
+        {
+            "location": "/development/", 
+            "text": "", 
+            "title": "\u5f00\u53d1"
+        }, 
+        {
+            "location": "/layers/", 
+            "text": "", 
+            "title": "\u5c42layers"
+        }, 
+        {
+            "location": "/updates/", 
+            "text": "", 
+            "title": "\u66f4\u65b0update"
+        }, 
+        {
+            "location": "/nonlinearities/", 
+            "text": "", 
+            "title": "\u975e\u7ebf\u6027nonlinearitites"
+        }, 
+        {
+            "location": "/regularization/", 
+            "text": "", 
+            "title": "\u6b63\u5219regularizaiton"
+        }, 
+        {
+            "location": "/random/", 
+            "text": "", 
+            "title": "\u968f\u673a\u51fd\u6570random"
+        }, 
+        {
+            "location": "/init/", 
+            "text": "", 
+            "title": "\u521d\u59cb\u5316init"
+        }, 
+        {
+            "location": "/utils/", 
+            "text": "", 
+            "title": "\u5176\u4ed6utils"
+        }, 
+        {
+            "location": "/other/", 
+            "text": "", 
+            "title": "\u8d44\u6599"
         }
     ]
 }
