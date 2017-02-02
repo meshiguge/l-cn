@@ -1,3 +1,2 @@
-这是中文
-2for l-cn 
 
+这是中文 for l-cn site
